@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Vector3_visualize/Vector3_visualize.vcxproj" Id="8c365901-9852-438a-9880-42846f2a338c" />
+</Solution>
