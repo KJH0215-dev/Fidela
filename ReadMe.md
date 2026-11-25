@@ -32,3 +32,6 @@ OBJ 파일을 읽어 3D 메시를 시각화하고 분석하는 C++ 프로젝트�
 - `camera` : 카메라
 - `Vector3` : 벡터 연산
 - `vector_visual.cpp` : 메인 및 UI
+
+## 스크린샷
+![실행 화면](screenshot1.png)
